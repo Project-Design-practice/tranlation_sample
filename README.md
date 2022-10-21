@@ -1,1 +1,1 @@
-"# tranlation_sample" 
+# tranSlation_sample
