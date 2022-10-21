@@ -1,0 +1,1 @@
+"# tranlation_sample" 
